@@ -35,7 +35,7 @@ A simple and clean notes application built with Flutter that allows users to cre
 
 ## 📥 Download
 
-[⬇️ Download APK](apk link here)
+[⬇️ Download APK](https://github.com/YousefAbuHzian/My-Notes-App/releases/tag/v1.0.0)
 
 ---
 
