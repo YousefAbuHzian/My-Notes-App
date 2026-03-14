@@ -25,9 +25,10 @@ A simple and clean notes application built with Flutter that allows users to cre
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/Home.jpg" width="180"/>
-  <img src="screenshots/Categories.jpg" width="180"/>
-  <img src="screenshots/Note.jpg" width="180"/>
+  <img src="screenshots/home.jpg" width="180"/>
+  <img src="screenshots/category.jpg" width="180"/>
+  <img src="screenshots/note.jpg" width="180"/>
+  <img src="screenshots/login.jpg" width="180"/>
 </p>
 
 ---
